@@ -8,7 +8,7 @@ Includes custom text for quick laughs and keeps the game light-hearted.
 
 Open Steam -> Library
 
-Right Click SCP: Secret LAboratory in the game list and open Properties...
+Right Click SCP: Secret Laboratory in the game list and open Properties...
 
 Go to Local Files -> Browse
 
