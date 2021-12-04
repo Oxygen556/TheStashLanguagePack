@@ -6,7 +6,6 @@ Includes custom text for quick laughs and keeps the game light-hearted.
 
 # How to Install (2 Methods)
 
--
 
 [Method 1 (Preferred)]
 This Method creates an entry in the Language Option, allowing you to switch in-between packs at will.
