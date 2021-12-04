@@ -9,6 +9,7 @@ Includes custom text for quick laughs and keeps the game light-hearted.
 
 
 [Method 1 (Preferred)]
+This Method creates an entry in the Language Option, allowing you to switch in-between packs at will.
 
 Open Steam -> Library
 
@@ -35,6 +36,8 @@ Go into the Options Tab, you should see a Language Section.
 
 Select: English (default) 1
 
+(NOTE: It may be different for you. If you have other langauge packs installed, you may get a different number at the end. Some steam clients list the file name instead as well.)
+
 -
 
 Play a couple of rounds and the pack will install itself over time.
@@ -43,6 +46,7 @@ Don't worry if changes aren't instantaneous.
 
 
 [Method 2]
+This method replaces the default language pack to the custom one. There are less steps to the process, however If you don't save the default pack somewhere, it may be lost until you redownload SCP:SL.This method is not recommended for those who regularly hop in-between SL servers.
 
 Open Steam -> Library
 
