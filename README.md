@@ -44,7 +44,7 @@ Don't worry if changes aren't instantaneous.
 
 [Method 2]
 
-pen Steam -> Library
+Open Steam -> Library
 
 Right Click SCP: Secret Laboratory in the game list and open Properties...
 
