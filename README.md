@@ -4,7 +4,13 @@ Official Language Pack for [US] The Stash
 Want a quality, in-depth experience while playing on our server? Download and Install this langauge pack on your Steam client!
 Includes custom text for quick laughs and keeps the game light-hearted.
 
-# How to Install (2 Methods)
+# Table of Contents
+- How to Install
+- How to Update
+
+# How to Install
+
+There are two methods on how to install and run the pack. One creates a new entry into the language list, and the other replaces the default English pack with the custom language pack's contents.
 
 
 [Method 1 (Preferred)]
@@ -66,9 +72,26 @@ Download the LATEST RELEASE (Dinkster fucking downloaded the ReadME.) of the Lan
 
 Extract the ZIP file's contents into a known location.
 
-Transfer the contents into English (Default) and Replace All items.
+Transfer ALL of the contents into the English (Default) File and Replace All items.
 
 -
 
 Play a couple of rounds and the pack will install itself over time.
 Don't worry if changes aren't instantaneous.
+
+# How to Update the Language Pack
+
+If there's a new release for the pack and you are currently using a previous version:
+
+-
+
+Download and Extract the New Release in an easy to access place (Like Desktop).
+
+Open the currently used release of the Language Pack.
+
+Copy the New Release's contents and paste it into the currently used release of the Language Pack, REPLACE ALL files.
+
+-
+
+
+Changes should appear in-game.
