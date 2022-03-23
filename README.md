@@ -32,7 +32,9 @@ Download the LATEST RELEASE (Dinkster fucking downloaded the ReadME.) of the Lan
 
 Extract the ZIP file's contents into a known location.
 
-Transfer the contents into the aformentioned Translations File.
+Open the extracted file, and you should find a file with a duplicated name.
+
+Transfer the contents of the duplicated file into the aformentioned Translations File.
 
 Open SCP: Secret Laboratory.
 
