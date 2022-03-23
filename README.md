@@ -92,7 +92,7 @@ Download and Extract the New Release in an easy to access place (Like Desktop).
 
 Open the currently used release of the Language Pack.
 
-Copy the New Release's contents and paste it into the currently used release of the Language Pack, REPLACE ALL files.
+Copy the New Release's ".txt" files and paste it into the currently used release of the Language Pack, REPLACE ALL files.
 
 -
 
