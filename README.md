@@ -46,7 +46,7 @@ Go into the Options Tab, you should see a Language Section.
 
 Select: English (default) 1
 
-(NOTE: It may be different for you. If you have other langauge packs installed, you may get a different number at the end.)
+(NOTE: It may be different for you. If you have other custom language packs installed, you may get a different number at the end.)
 
 -
 
@@ -75,7 +75,7 @@ Download the LATEST RELEASE (Dinkster fucking downloaded the ReadME.) of the Lan
 
 Extract the ZIP file's contents into a known location.
 
-Transfer ALL of the contents into the English (Default) File and Replace All items.
+Transfer ALL of the ".txt" files into the English (Default) File and Replace All items.
 
 -
 
