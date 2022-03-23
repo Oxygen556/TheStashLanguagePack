@@ -32,9 +32,10 @@ Download the LATEST RELEASE (Dinkster fucking downloaded the ReadME.) of the Lan
 
 Extract the ZIP file's contents into a known location.
 
-Open the extracted file, and you should find a file with a duplicated name.
+Open the extracted file, The file _INSIDE_ the extracted file is the "language pack".
+(**THIS STEP IS CRUCIAL, MOST OF YA'LL KEEP ASKING WHY YOU CAN'T SEE CHANGES AND THIS IS 99% THE CAUSE. YOU'LL KNOW IF YOU'VE GOTTEN THIS PROBLEM IF YOU GET AN INSTANCE WHERE THE LANGUAGE PACK NAME IS THE FILE NAME IN THE LANGUAGE OPTIONS.**)
 
-Transfer the contents of the duplicated file into the aformentioned Translations File.
+Transfer the "language pack" file into the aformentioned Translations File.
 
 Open SCP: Secret Laboratory.
 
@@ -45,7 +46,7 @@ Go into the Options Tab, you should see a Language Section.
 
 Select: English (default) 1
 
-(NOTE: It may be different for you. If you have other langauge packs installed, you may get a different number at the end. Some steam clients list the file name instead as well.)
+(NOTE: It may be different for you. If you have other langauge packs installed, you may get a different number at the end.)
 
 -
 
