@@ -55,7 +55,7 @@ Don't worry if changes aren't instantaneous.
 
 -
 
-[Method 2] This method replaces the default language pack to the custom one. There are less steps to the process, however If you don't save the default pack somewhere, it may be lost until you redownload SCP:SL.This method is not recommended for those who regularly hop in-between SL servers.
+[Method 2] This method replaces the default language pack to the custom one. There are less steps to the process, however If you don't save the default pack somewhere, it may be lost until you reset your SCP:SL files to a default state. This method is not recommended for those who regularly hop in-between SL servers.
 
 -
 
