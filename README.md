@@ -33,16 +33,18 @@ Download the LATEST RELEASE (Dinkster fucking downloaded the ReadME.) of the Lan
 Extract the ZIP file's contents into a known location.
 
 Open the extracted file, The file _INSIDE_ the extracted file is the "language pack".
-(**THIS STEP IS CRUCIAL, MOST OF YA'LL KEEP ASKING WHY YOU CAN'T SEE CHANGES AND THIS IS 99% THE CAUSE. YOU'LL KNOW IF YOU'VE GOTTEN THIS PROBLEM IF YOU GET AN INSTANCE WHERE THE LANGUAGE PACK NAME IS THE FILE NAME IN THE LANGUAGE OPTIONS.**)
+![drag this file to translations](https://user-images.githubusercontent.com/92807576/216736691-3797da44-34ac-4692-bf9e-96fad63efff5.PNG)
+The file shown above IS the one you focus in on. NOTE THE FILE PATH.
 
-Transfer the "language pack" file into the aformentioned Translations File.
+(**THIS STEP IS CRUCIAL, MOST OF YA'LL KEEP ASKING WHY YOU CAN'T SEE CHANGES AND THIS IS 99% THE CAUSE. YOU'LL KNOW IF YOU'VE GOTTEN THIS PROBLEM IF YOU GET AN INSTANCE WHERE THE LANGUAGE PACK NAME IS THE FILE NAME IN THE LANGUAGE OPTIONS.**)
+Drag the file (noted above) into the "Translations" file in the SCP:SL properties.
 
 Open SCP: Secret Laboratory.
 
 -
 
 
-Go into the Options Tab, you should see a Language Section.
+Go into the Options Tab, you should the "Language" Option in the "Others" Tab.
 
 Select: English (default) 1
 
